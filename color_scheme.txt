@@ -1,0 +1,5 @@
+water bodies- #0678fa
+built up area- #f63206
+natural vegetation- #4bf512
+water bodies- #1cc3e90
+barren land- #ebf803
